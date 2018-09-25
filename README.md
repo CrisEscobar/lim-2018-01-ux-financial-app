@@ -62,9 +62,9 @@ Con las herramientas seleccionadas y aprobadas, decidimos que el proceso de redi
 
 ## 3. Entrevista con el cliente
 
-> Puede ver el video de la entrevista [aquí](https://www.useloom.com/share/246e4791e9cc4c4396889131fb7396cf)
+> Puede ver el video de la entrevista [aquí](https://www.useloom.com/share/246e4791e9cc4c4396889131fb7396cf).
 
-> También puede revisar la [guía de entrevista](https://docs.google.com/document/d/1lSs8p5qKMZ9SAjbPPCZ45EkrqxwT7u7SMDUigGlJDP0/edit?usp=sharing)
+> También puede revisar la [guía de entrevista](https://docs.google.com/document/d/1lSs8p5qKMZ9SAjbPPCZ45EkrqxwT7u7SMDUigGlJDP0/edit?usp=sharing).
 
 La entrevista fue realizada el 12 de Setiembre a las 16:30 horas con Gabriela Segura, CEO del banco. Dentro de las conclusiones más relevantes, encontramos:
 
@@ -81,6 +81,7 @@ La entrevista fue realizada el 12 de Setiembre a las 16:30 horas con Gabriela Se
 ## 4. Problemas encontrados
 
 ### 4.1 Análisis de la data
+
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-financial-app/blob/master/img/data.png" alt="data" border="0"></p>
 
@@ -137,7 +138,7 @@ Luego de investigar y analizar información nueva y existente, consideramos que 
 
 >El color lila en psicología tiene un significado asociado al equilibrio, madurez, empatía y dignidad.
 
-*
+
 
 ## 10. Diseño para desarrolladores
 ## 11. Video 
