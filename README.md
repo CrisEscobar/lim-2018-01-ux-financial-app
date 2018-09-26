@@ -113,7 +113,7 @@ Realizamos una investigación con 4 bancos y 1 app de ahorros, el benchmark nos 
 
 Con los resultados de las entrevistas a 4 usuarios, realizamos un **[Afinity map](https://drive.google.com/open?id=1Zud2AeWdGdeyUXhRERuypYzt67FP3ndX)** para organizar y sintetizar lo que encontramos y así analizar las preferencias o gustos en común que tienen.
 
-<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-financial-app/blob/master/img/afinity.jpg" alt="afinity" border="0"></p>
+<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-financial-app/blob/master/img/afinity.JPG" alt="afinity" border="0"></p>
 
 ## 7. User Persona
 
@@ -154,7 +154,7 @@ Respecto al user flow, decidimos que la funcionalidad de "Transacciones" formara
 
 #### 9.2.1 Accesibilidad: Una mejor experiencia de usuario para todos
 
-**Teniendo en cuenta que es una app que permite llevar el control de gastos y ahorros de manera personalizada para clientes del banco, es muy importante que en un corto o mediano plazo dirijan el producto al grupo de clientes que posee algún tipo de discapacidad y que también necesita manejar su dinero de una forma eficiente. El no hacerlo podría ocasionar sanciones que superarían 2 UIT (S/. 8,300) ya que en nuestro país, la [Ley N° 28530](http://www.bn.com.pe/leyes/ley28530.pdf) promueve el acceso a Internet de personas con discapacidad, estableciendo la obligación de adecuar las páginas web o portales de Internet de entidades públicas, universidades y empresas que brinden servicios de información al consumidor.** 
+Teniendo en cuenta que es una app que permite llevar el control de gastos y ahorros de manera personalizada para clientes del banco, es muy importante que en un corto o mediano plazo dirijan el producto al grupo de clientes que posee algún tipo de discapacidad y que también necesita manejar su dinero de una forma eficiente. El no hacerlo podría ocasionar sanciones que superarían 2 UIT (S/. 8,300) ya que en nuestro país, la [Ley N° 28530](http://www.bn.com.pe/leyes/ley28530.pdf) promueve el acceso a Internet de personas con discapacidad, estableciendo la obligación de adecuar las páginas web o portales de Internet de entidades públicas, universidades y empresas que brinden servicios de información al consumidor.
 
 ### 9.3 Del presupuesto de marketing
 
@@ -166,9 +166,13 @@ Respecto al user flow, decidimos que la funcionalidad de "Transacciones" formara
 * Recomendamos rotar la publicidad en las agencias bancarias.
 * Se podrían realizar tutoriales y mantener relación activa con influencers como bloguers para promocionar el producto.
 
-## 10 Prototipo de Alta Fidelidad
+## 10. Prototipo de Alta Fidelidad y Testing
 
-Luego de investigar y analizar información nueva y existente, consideramos que la app necesita tener una nueva interface que refleje las verdaderas preferencias de sus usuarios que ya han interactuado con ella, con un aspecto más juvenil y divertido según los datos recogidos en las entrevistas. A continuación presentamos nuestro [prototipo de alta fidelidad]().
+[Link a prototipo de alta fidelidad]()
+
+Luego de investigar y analizar información nueva y existente, consideramos que la app necesita tener una nueva interface que refleje las verdaderas preferencias de sus usuarios que ya han interactuado con ella, con un aspecto más juvenil, gráfico y divertido según los datos recogidos en las entrevistas. 
+
+Algunas conclusiones del testing del prototipo fueron:
 
 ## 11. Diseño para desarrolladores
 ## 12. Video Demo
