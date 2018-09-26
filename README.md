@@ -103,12 +103,13 @@ Puede revisar el detalle del testing del MVP [aquí](https://docs.google.com/doc
 
 ## 5. Benchmark
 
-Realizamos una investigación con 4 bancos y 1 app de ahorros, el benchmark nos sirvió para mapear los servicios de la competencia, identificar las buenas y malas prácticas de ellas y poder proponer un mejor producto para nuestro cliente. Puede servisarlo [aquí](https://docs.google.com/spreadsheets/d/1zwyfHTz9ErV2t1ZiWd_TV9lBQVr_bNDR-iLA9jNY42E/edit?usp=sharing).
+Realizamos una investigación con 4 bancos y 1 app de ahorros, el benchmark nos sirvió para mapear los servicios de la competencia, identificar las buenas y malas prácticas de ellas y poder proponer un mejor producto para nuestro cliente. Puede revisarlo [aquí].(https://docs.google.com/spreadsheets/d/1zwyfHTz9ErV2t1ZiWd_TV9lBQVr_bNDR-iLA9jNY42E/edit?usp=sharing).
 
 ## 6. Entrevista a usuarios
 
-> Puede escuchar los audios de las entrevistas [aquí]()
-> También puede revisar la [guía de entrevista](https://docs.google.com/document/d/1zkpNdduRrQOyX4_QqJv3oFAbYE0jRZ1fV0Oqh6pJxlA/edit?usp=sharing)
+> Puede escuchar los audios de las entrevistas [aquí](https://drive.google.com/drive/folders/1YTl9OVkEl4CMr3h6N0Kj8A-K98LQkMyO).
+
+> También puede revisar la [guía de entrevista](https://docs.google.com/document/d/1zkpNdduRrQOyX4_QqJv3oFAbYE0jRZ1fV0Oqh6pJxlA/edit?usp=sharing).
 
 Con los resultados de las entrevistas a 4 usuarios, realizamos un **[Afinity map](https://drive.google.com/open?id=1Zud2AeWdGdeyUXhRERuypYzt67FP3ndX)** para organizar y sintetizar lo que encontramos y así analizar las preferencias o gustos en común que tienen.
 
@@ -126,22 +127,29 @@ Respecto al user flow, decidimos que la funcionalidad de "Transacciones" formara
 
 ## 9. Recomendaciones a implementar
 
-### 9.1 Prototipo de Alta Fidelidad
-
-Luego de investigar y analizar información nueva y existente, consideramos que la app necesita tener una nueva interface que refleje las verdaderas preferencias de sus usuarios que ya han interactuado con ella, con un aspecto más juvenil y divertido según los datos recogidos en las entrevistas. A continuación presentamos nuestro [prototipo de alta fidelidad]().
-
-### 9.2 Otras recomendaciones
+### 9.1 De las modificaciones
 
 * Como ya se mencionó en el user flow, consideramos que la sección de transacciones debe ser una opción secundaria para que le sirva al usuario como ayuda memoria y no tenga que ingresar a la app principal del banco.
-* Se debería considerar cambiar el nombre de la app "Tus finanzas" ya que no resulta muy amigable para sus usuarios porque según indican es un término muy serio. 
-* Respecto al color de la app, se pudo recoger que el color es muy apagado y no motiva a querer registrar información, necesitan encontrar una forma dinámica de ingresar e interactuar con todos los beneficios que le ofrece la app.
+* Respecto al color de la app, se pudo recoger que el color es muy apagado y no motiva a querer registrar información continua, necesitan encontrar una forma dinámica de ingresar e interactuar con todos los beneficios que le ofrece la app. Para fines de este demo, tenemos la propuesta del color lila.
 
 >El color lila en psicología tiene un significado asociado al equilibrio, madurez, empatía y dignidad.
 
+* En cuanto al registro, de acuerdo al resultado del testing debe ser más corto ya que no es una app de extrema seguridad como la principal, no es transaccional, es por esto que el proceso debe ser más directo.
+* La información debe estar presentada de forma gráfica en su mayoría para que tengan un registro visual y así sea más fácil y práctico llevar sus cuentas.
+
+### 9.2 De los próximos desarrollos
+
+* Se debería considerar cambiar el nombre de la app "Tus finanzas" ya que no resulta muy amigable para sus usuarios porque según indican es un término muy serio. 
+
+### 9.3 Del presupuesto de marketing
+
+### 10 Prototipo de Alta Fidelidad
+
+Luego de investigar y analizar información nueva y existente, consideramos que la app necesita tener una nueva interface que refleje las verdaderas preferencias de sus usuarios que ya han interactuado con ella, con un aspecto más juvenil y divertido según los datos recogidos en las entrevistas. A continuación presentamos nuestro [prototipo de alta fidelidad]().
 
 
-## 10. Diseño para desarrolladores
-## 11. Video 
+## 11. Diseño para desarrolladores
+## 12. Video Demo
 
 
 
