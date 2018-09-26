@@ -1,4 +1,4 @@
-# Aplicación financiera "Tus Finanzas"
+# 💰 Aplicación financiera "Tus Finanzas" 💰
 
 ## 1. Objetivos iniciales del proyecto
 
@@ -103,7 +103,7 @@ Puede revisar el detalle del testing del MVP [aquí](https://docs.google.com/doc
 
 ## 5. Benchmark
 
-Realizamos una investigación con 4 bancos y 1 app de ahorros, el benchmark nos sirvió para mapear los servicios de la competencia, identificar las buenas y malas prácticas de ellas y poder proponer un mejor producto para nuestro cliente. Puede revisarlo [aquí].(https://docs.google.com/spreadsheets/d/1zwyfHTz9ErV2t1ZiWd_TV9lBQVr_bNDR-iLA9jNY42E/edit?usp=sharing).
+Realizamos una investigación con 4 bancos y 1 app de ahorros, el benchmark nos sirvió para mapear los servicios de la competencia, identificar las buenas y malas prácticas de ellas y poder proponer un mejor producto para nuestro cliente. Puede revisarlo [aquí](https://docs.google.com/spreadsheets/d/1zwyfHTz9ErV2t1ZiWd_TV9lBQVr_bNDR-iLA9jNY42E/edit?usp=sharing).
 
 ## 6. Entrevista a usuarios
 
@@ -112,6 +112,8 @@ Realizamos una investigación con 4 bancos y 1 app de ahorros, el benchmark nos 
 > También puede revisar la [guía de entrevista](https://docs.google.com/document/d/1zkpNdduRrQOyX4_QqJv3oFAbYE0jRZ1fV0Oqh6pJxlA/edit?usp=sharing).
 
 Con los resultados de las entrevistas a 4 usuarios, realizamos un **[Afinity map](https://drive.google.com/open?id=1Zud2AeWdGdeyUXhRERuypYzt67FP3ndX)** para organizar y sintetizar lo que encontramos y así analizar las preferencias o gustos en común que tienen.
+
+<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-financial-app/blob/master/img/afinity.jpg" alt="afinity" border="0"></p>
 
 ## 7. User Persona
 
@@ -134,19 +136,39 @@ Respecto al user flow, decidimos que la funcionalidad de "Transacciones" formara
 
 >El color lila en psicología tiene un significado asociado al equilibrio, madurez, empatía y dignidad.
 
+* Se realizó un cambio de fuente al nombre de la app, porque se confundía con el contenido.
 * En cuanto al registro, de acuerdo al resultado del testing debe ser más corto ya que no es una app de extrema seguridad como la principal, no es transaccional, es por esto que el proceso debe ser más directo.
+* La opción de huella digital debe ser opcional, según el tipo de celular que tenga el usuario.
 * La información debe estar presentada de forma gráfica en su mayoría para que tengan un registro visual y así sea más fácil y práctico llevar sus cuentas.
+* Recomendamos añadir fotos personalizadas que motiven el ahorro y mensajes alentadores para este fin.
+* El lenguaje de la app debe ser más amigable y cercano.
+* Antes de registrar y confirmar un ahorro, es importante que el usuario esté al tanto de cuánto es lo que se le debitará, por esto hemos agregado un mensaje con el cálculo que registre antes de confirmar.
+* Hemos añadido un límite de gastos para que el usuario tenga visibilidad de cuánto es lo que está gastando, además el límite le permitirá recibir alertas si es que sobre pasa el límite.
+* La visita al landing page tiene que tener mayor impacto ya que es muchas veces el primer paso a la descarga final, por este motivo, proponemos agregar fotos de personas y un mensaje más marketero.
 
 ### 9.2 De los próximos desarrollos
 
 * Se debería considerar cambiar el nombre de la app "Tus finanzas" ya que no resulta muy amigable para sus usuarios porque según indican es un término muy serio. 
+* El desarrollo de la app debe estar enfocado en Android principalmente ya que la data refleja que la mayoría de usuarios usan este tipo de sistema.
+* Como sugerencia, se podría evaluar la posibilidad de agregar una funcionalidad que permita calcular cuánto se puede ahorrar dependiendo del ingreso.
+
+#### 9.2.1 Accesibilidad: Una mejor experiencia de usuario para todos
+
+**Teniendo en cuenta que es una app que permite llevar el control de gastos y ahorros de manera personalizada para clientes del banco, es muy importante que en un corto o mediano plazo dirijan el producto al grupo de clientes que posee algún tipo de discapacidad y que también necesita manejar su dinero de una forma eficiente. El no hacerlo podría ocasionar sanciones que superarían 2 UIT (S/. 8,300) ya que en nuestro país, la [Ley N° 28530](http://www.bn.com.pe/leyes/ley28530.pdf) promueve el acceso a Internet de personas con discapacidad, estableciendo la obligación de adecuar las páginas web o portales de Internet de entidades públicas, universidades y empresas que brinden servicios de información al consumidor.** 
 
 ### 9.3 Del presupuesto de marketing
 
-### 10 Prototipo de Alta Fidelidad
+* **Referral Programs**, se podría realizar programas para promocionar la app a nuevos clientes a través de referencias boca a boca con usuarios ya existentes, brindándoles incentivos como por ejemplo: efectivo, premios, descuentos, cupones o puntos canjeables.
+
+> Un estudio realizado por Goethe University Frankfurt y la Universidad de Pensilvania , sobre programas de referencia y valor para el cliente que siguió el programa de recomendación de un banco alemán que pagó a los clientes 25 euros por traer un nuevo cliente, fue lanzado en julio de 2010.El estudio encontró que los clientes referidos eran más rentables y leales que los clientes normales. Los clientes referidos tenían un mayor margen de contribución, una tasa de retención más alta y eran más valiosos tanto a corto como a largo plazo. Encuentre la información completa del estudio [aquí](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.170.5396&rep=rep1&type=pdf).
+
+* Sugerimos analizar la posibilidad de que el porcentaje predominante del presupuesto de publicidad sea asignado más a Linkedin que a Facebook, ya que esta red social contiene más usuarios dentro del público objetivo.  
+* Recomendamos rotar la publicidad en las agencias bancarias.
+* Se podrían realizar tutoriales y mantener relación activa con influencers como bloguers para promocionar el producto.
+
+## 10 Prototipo de Alta Fidelidad
 
 Luego de investigar y analizar información nueva y existente, consideramos que la app necesita tener una nueva interface que refleje las verdaderas preferencias de sus usuarios que ya han interactuado con ella, con un aspecto más juvenil y divertido según los datos recogidos en las entrevistas. A continuación presentamos nuestro [prototipo de alta fidelidad]().
-
 
 ## 11. Diseño para desarrolladores
 ## 12. Video Demo
