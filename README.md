@@ -29,9 +29,7 @@ Durante la primera semana de entendimiento de los requerimientos, el Product Man
   nosotros pensábamos inicialmente), y diseñamos y desarrollamos un ‘Producto
   mínimo viable’ (MVP) en 2 meses en iOS. Ese MVP lo hemos lanzado y tenemos
   alrededor de 6 meses de data. Hoy estamos en el proceso de entender los
-  resultados iniciales y de sacar una segunda iteración del producto. Y para eso
-  las hemos contratado. Toda la documentación de este producto la tenemos en una
-  carpeta de [Google Drive](http://bit.ly/uxd-reto-2). Les doy acceso.
+  resultados iniciales y de sacar una segunda iteración del producto. 
 
 **c) Desean tener mayor claridad en el presupuesto a invertir**   
   
@@ -168,11 +166,15 @@ Teniendo en cuenta que es una app que permite llevar el control de gastos y ahor
 
 ## 10. Prototipo de Alta Fidelidad y Testing
 
-[Link a prototipo de alta fidelidad]()
+### 10.1 Diseño Anotado
+
+De acuerdo al diseño entregado y el testing del MVP, definimos cuáles eran las vistas que no son necesarias, cuáles había que mejorar y próximamente cuáles se tenían que crear:
+
+<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-financial-app/blob/master/img/diseño-anotado.jpg" alt="diseño-anotado" border="0"></p>
+
+[Link a prototipo de alta fidelidad](https://www.figma.com/file/HAelpcFtuE0gsIgITbQWil/Financial-app?node-id=0%3A477)
 
 Luego de investigar y analizar información nueva y existente, consideramos que la app necesita tener una nueva interface que refleje las verdaderas preferencias de sus usuarios que ya han interactuado con ella, con un aspecto más juvenil, gráfico y divertido según los datos recogidos en las entrevistas. 
-
-Algunas conclusiones del testing del prototipo fueron:
 
 ## 11. Diseño para desarrolladores
 ## 12. Video Demo
