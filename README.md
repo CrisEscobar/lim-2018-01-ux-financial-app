@@ -176,6 +176,8 @@ De acuerdo al diseño entregado y el testing del MVP, definimos cuáles eran las
 
 Luego de investigar y analizar información nueva y existente, consideramos que la app necesita tener una nueva interface que refleje las verdaderas preferencias de sus usuarios que ya han interactuado con ella, con un aspecto más juvenil, gráfico y divertido según los datos recogidos en las entrevistas. 
 
+[Link a prototipo navegable](https://marvelapp.com/9id62ea/screen/48325187)
+
 ## 11. Diseño para desarrolladores
 
 ## 12. Video Demo
