@@ -180,6 +180,8 @@ Luego de investigar y analizar información nueva y existente, consideramos que 
 
 ## 11. Diseño para desarrolladores
 
+[Link de Zeplin](https://app.zeplin.io/project/5bb304e83aa99611f2282038)
+
 ## 12. Video Demo
 
 [Link a video demostrativo](https://www.useloom.com/share/e570d28bee5c45dfb077960ae27ef6e3)
