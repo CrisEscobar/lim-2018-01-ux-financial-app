@@ -170,14 +170,22 @@ Teniendo en cuenta que es una app que permite llevar el control de gastos y ahor
 
 De acuerdo al diseño entregado y el testing del MVP, definimos cuáles eran las vistas que no son necesarias, cuáles había que mejorar y próximamente cuáles se tenían que crear:
 
-<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-financial-app/blob/master/img/diseño-anotado.jpg" alt="diseño-anotado" border="0"></p>
+<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-financial-app/blob/master/img/dise%C3%B1o-anotado.JPG" alt="diseño-anotado" border="0"></p>
 
 [Link a prototipo de alta fidelidad](https://www.figma.com/file/HAelpcFtuE0gsIgITbQWil/Financial-app?node-id=0%3A477)
 
 Luego de investigar y analizar información nueva y existente, consideramos que la app necesita tener una nueva interface que refleje las verdaderas preferencias de sus usuarios que ya han interactuado con ella, con un aspecto más juvenil, gráfico y divertido según los datos recogidos en las entrevistas. 
 
+[Link a prototipo navegable](https://marvelapp.com/9id62ea/screen/48325187)
+
 ## 11. Diseño para desarrolladores
+
+[Link de Zeplin](https://app.zeplin.io/project/5bb304e83aa99611f2282038)
+
 ## 12. Video Demo
+
+[Link a video demostrativo](https://www.useloom.com/share/e570d28bee5c45dfb077960ae27ef6e3)
+
 
 
 
