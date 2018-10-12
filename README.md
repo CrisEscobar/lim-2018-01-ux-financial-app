@@ -58,6 +58,8 @@ Con las herramientas seleccionadas y aprobadas, decidimos que el proceso de redi
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-financial-app/blob/master/img/process.png" alt="process" border="0"></p> 
 
+> Puede ver la planificación [aquí](https://trello.com/b/9YUoOUSe/financial-app).
+
 ## 3. Entrevista con el cliente
 
 > Puede ver el video de la entrevista [aquí](https://www.useloom.com/share/246e4791e9cc4c4396889131fb7396cf).
